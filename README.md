@@ -14,3 +14,5 @@ Colab R:
 | Deinococcus irradiatisoli | 3008 | 2748916 | 3052043 | 90.07 |
 | Deinococcus puniceus | 2675 | 2435419 | 2971983 | 81.95 |
 | Deinococcus radiophilus | 4003 | 3694783 | 4157290 | 88.87 |
+
+##Гистограмма значений zh-score
