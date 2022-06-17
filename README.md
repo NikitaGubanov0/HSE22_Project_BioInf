@@ -19,7 +19,7 @@ https://colab.research.google.com/drive/1Auox26jPNaZ93DEOvIW6dPhkdfWQv2F8#scroll
 ## Гистограмма значений zh-score
 
 ![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/data/act.png)
-![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/tree/main/image/ficus.png)
+![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/ficus.png)
 ![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/irr.png)
 ![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/pun.png)
 ![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/soli.png)
