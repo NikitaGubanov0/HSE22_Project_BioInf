@@ -17,3 +17,5 @@ https://colab.research.google.com/drive/1Auox26jPNaZ93DEOvIW6dPhkdfWQv2F8#scroll
 | Deinococcus radiophilus | 4003 | 3694783 | 4157290 | 88.87 | 42344 | 42100 |
 
 ##Гистограмма значений zh-score
+![alt text](https://raw.githubusercontent.com/NikitaGubanov0/HSE22_Project_BioInf
+Public/master/image/to/zhunt_actinosclerus.png)
