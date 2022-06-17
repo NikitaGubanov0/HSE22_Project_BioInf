@@ -25,5 +25,14 @@ https://colab.research.google.com/drive/1Auox26jPNaZ93DEOvIW6dPhkdfWQv2F8#scroll
 ![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/soli.png)
 
 ## Z-ДНК и гомологичные гены разных организмов
+
+Всего кластеров: 3167
 ![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/data/Genes%20in%20clusters.jpg)
 ![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/Species%20in%20clusters.jpg)
+
+## Визуализация расположения Z - ДНК для кластеров
+![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/zdna_actinosclerus.png)
+![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/zdna_ficus.png)
+![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/zdna_irradiatisoli.png)
+![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/zdna_puniceus.png)
+![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/zdna_soli.png)
