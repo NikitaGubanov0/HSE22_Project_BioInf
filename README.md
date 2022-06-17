@@ -16,5 +16,6 @@ https://colab.research.google.com/drive/1Auox26jPNaZ93DEOvIW6dPhkdfWQv2F8#scroll
 | Deinococcus puniceus | 2675 | 2435419 | 2971983 | 81.95 | 49301 | 49322 |
 | Deinococcus radiophilus | 4003 | 3694783 | 4157290 | 88.87 | 42344 | 42100 |
 
-##Гистограмма значений zh-score
-![alt text](https://raw.githubusercontent.com/NikitaGubanov0/HSE22_Project_BioInf/master/image/to/zhunt_actinosclerus.png)
+## Гистограмма значений zh-score
+
+![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/zhunt_actinosclerus.png)
