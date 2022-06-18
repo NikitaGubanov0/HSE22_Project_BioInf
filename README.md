@@ -3,8 +3,6 @@
 Colab Python:
 https://colab.research.google.com/drive/13aJw4_e9ZMa6sc95uJBmea3tBAmmv8pa?usp=sharing
 
-Colab R:
-https://colab.research.google.com/drive/1Auox26jPNaZ93DEOvIW6dPhkdfWQv2F8#scrollTo=D_XVx88_YlkP
 
 ## Сводная таблица
 
