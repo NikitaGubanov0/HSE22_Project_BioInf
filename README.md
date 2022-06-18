@@ -40,7 +40,7 @@ https://colab.research.google.com/drive/1Auox26jPNaZ93DEOvIW6dPhkdfWQv2F8#scroll
 ![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/zdna_puniceus.png)
 ![](https://github.com/NikitaGubanov0/HSE22_Project_BioInf/blob/main/image/zdna_soli.png)
 
-Кластеры не сохранение Z-DNA.
+# Кластеры не прошли сохранение Z-DNA.
 
 # Выравнивание 5 кластеров
 Выравнивание кластеров реализованно в папке "data", в файлах - "clust0" "clust1" "clust2" "clust3" "clust4"
